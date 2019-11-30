@@ -1,0 +1,172 @@
+<resources>
+    <string name="app_name">ذا ون</string>
+    <string name="home">الرئيسية</string>
+    <string name="categories">التصنيفات</string>
+    <string name="alldeals">جميع العروض</string>
+    <string name="hotdeals">العروض</string>
+    <string name="allcitydeals">صفقات جميع المدن</string>
+
+
+    <string name="error">خطأ</string>
+    <string name="internet_error">لا يوجد انترنت</string>
+    <string name="ok">تم</string>
+    <string name="please_wait">يرجى الإنتظار...</string>
+    <string name="no_winners">لم يتم العثور</string>
+
+    <string name="navigation_drawer_open">افتح المتصفح</string>
+    <string name="navigation_drawer_close">اغلق المتصفح</string>
+
+    <string name="action_settings">اعدادات</string>
+    <string name="highlights">إضاءات</string>
+    <string name="termsandconditions">البنود والشروط</string>
+
+
+    <!--Login page -->
+    <string name="login">دخول</string>
+    <string name="signup">تسجيل</string>
+    <string name="email">بريد(أختيارى)</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمةالمرور</string>
+    <string name="yourname">الإسم</string>
+    <string name="mobile">رقم الهاتف النقال</string>
+    <string name="city">المدينة</string>
+
+    <string name="enter_here">أدخل هنا</string>
+    <string name="sel_country_code">اختر رمز البلد</string>
+    <string name="invalid_email">عنوان بريد غير صحيح</string>
+    <string name="all_fields_compulsory">جميع الحقول الزامية</string>
+    <string name="reg_error">خطأ في التسجيل</string>
+    <string name="reg_success">تم التسجيل بنجاح يرجى تفعيل حسابك</string>
+    <string name="login_empty">البريد وكلمةالمرور لايمكن أن يكون فارغا</string>
+    <string name="login_success">تم تسجيل الدخول بنجاح</string>
+    <string name="activation_pending_login">يرجى تفعيل حسابك للدخول</string>
+    <string name="invalid_login_details">كلمة المرور أو البريد غير صحيح</string>
+
+    <string name="add_card">أضف بطاقة</string>
+    <string name="enter_the_12_digit_code_provided_on_your_one_card_below">أضف الكود المكون من 12 رقما على بطاقة ذا ون في الأسفل هنا</string>
+    <string name="enter_code_here">أضف الكود هنا</string>
+
+    <string name="login_via">الدخول بواسطة</string>
+    <string name="register_message"><![CDATA[<font color=#ffffff>لست عضوا حتى الآن؟ </font> <font color=#f4d12b>انشيء حسابك</font>]]></string>
+    <string name="create_account">أنشيء حساب</string>
+    <string name="login_message"><![CDATA[<font color=#ffffff>لدي حساب تسجيل؟</font> <font color=#f4d12b>الدخول </font>]]></string>
+
+
+
+    <string name="my_deals">عربة التسوق</string>
+    <string name="edit_profile">تعديل الحساب</string>
+    <string name="logout">خروج</string>
+    <string name="faqs">أسئلة شائعة</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="rate_app">تقييم التطبيق</string>
+    <string name="share_app">شارك التطبيق</string>
+    <string name="select_language">اختر اللغة</string>
+    <string name="locale_lang">لغة</string>
+    <string name="change_language">تغيير اللغة</string>
+
+    <string name="otp_wait_verify">استرح قليلا ريثما نتحقق من رقم هاتفك النقال</string>
+    <string name="otp_message">(ادخل الكود في حالة لم نتمكن من التحقق التلقائي)</string>
+    <string name="enter_otp">ادخل الكود</string>
+    <string name="submit">إرسال</string>
+    <string name="cancel">إلغاء</string>
+    <string name="select_an_option">اختر</string>
+    <string name="enter_your_phone_number_for_verification">ادخل رقم هاتفك النقال للتحقق</string>
+    <string name="verify_phone">تحقق من الهاتف</string>
+
+    <string name="select_city">اختر المدينة</string>
+    <string name="send_us_your_query">أرسل إلينا</string>
+    <string name="your_name">الإسم</string>
+    <string name="message">الرسالة</string>
+    <string name="send_query">أرسل</string>
+    <string name="call_us">اتصل بنا</string>
+    <string name="copyright_u00a9_mazaya_facilities">جميع الحقوق محفوظة مزايا فاسيليتيز</string>
+    <string name="create_account_text">انتزع الصفقات و نحن نتمنى أن تحب صفقات ذا ون</string>
+    <string name="phone_number">رقم الهاتف النقال</string>
+    <string name="verify">تحقق</string>
+    <string name="featured_deals">صفقات مميزة</string>
+    <string name="follow_us">تابعونا</string>
+    <string name="by_mazaya_facilites">من مزايا فاسيليتيز</string>
+    <string name="grab_deal">إحصل عليها</string>
+    <string name="phone_permissions">امنح الصلاحية للتحقق من رقم الهاتف النقال</string>
+    <string name="welcome">مرحبا</string>
+    <string name="card_valid_till">البطاقة صالحة حتى</string>
+    <string name="no_card">لا توجد بطاقة</string>
+    <string name="card_applied">تم استخدام البطاقة</string>
+    <string name="search_results">نتائج البحث عن</string>
+    <string name="incorrect_phone">تم إدخال رقم هاتف نقال خاطئ</string>
+    <string name="you_need_login">يجب الدخول لتنتزع الصفقة</string>
+    <string name="deal_grabbed">تم الإنتزاع بنجاح :)</string>
+
+    <string name="recover_via_email">استرداد عبر البريد الإلكتروني</string>
+    <string name="recover_via_sms">استرداد عبر الرسائل القصيرة</string>
+    <string name="country_code">رمز الدولة</string>
+    <string name="recovery_email_sent">لقد أرسلنا إليك البريد الإلكتروني المخصص للطوارئ.</string>
+
+    <string name="no_account_with_phone">لا يوجد حساب مع هذا الهاتف النقال</string>
+    <string name="phone_not_verified">لم يتم التحقق من هاتفك النقال. استخدم البريد الإلكتروني لاستعادة كلمة المرور</string>
+    <string name="update_password">تغيير كلمة المرور</string>
+    <string name="current_password">كلمة السر الحالية</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="new_password_conf">تأكيد كلمة المرور الجديدة</string>
+    <string name="pass_updated">لقد تم تحديث كلمة السر الخاصة بك</string>
+    <string name="old_pass_not_match">كلمة المرور الحالية لا تتطابق مع سجلاتنا</string>
+    <string name="set_new_pass">تعيين كلمة مرور جديدة</string>
+    <string name="pass_dont_match">اجلس واسترخي! بينما نتحقق من رقم هاتفك النقال</string>
+    <string name="complete_profile">قم باستكمال ملفك</string>
+    <string name="enter_details">أدخل تفاصيلك</string>
+    <string name="locations">مواقع</string>
+    <string name="welcome_guest">مرحبا بضيفنا</string>
+    <string name="views">مشاهدات</string>
+    <string name="likes">اعجابات</string>
+    <string name="you_are_not_logged_in">لم تقم بتسجيل الدخول</string>
+    <string name="edit_profile_success">تم تحديث البروفايل</string>
+    <string name="update_error">خطأ عند التحديث</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    <string name="set_pass">تعيين كلمة المرور</string>
+    <string name="orderno">رقم الطلب</string>
+    <string name="grabbed_on">تم انتزاع الصفقة في</string>
+    <string name="available">متوفر</string>
+    <string name="used">مستخدم</string>
+    <string name="min_password_length">يجب أن يكون طول كلمة المرور 8 أرقام وأحرف</string>
+    <string name="annual_discounted_deals">الخصومات السنوية</string>
+    <string name="invalid_card">كود التفعيل غير صالح</string>
+    <string name="switching_city">Switching City.. Please Wait</string>
+    <string name="don_t_have_activation_code">ليس لديك كود تفعيل؟</string>
+    <string name="one_year_validity">مدة الصلاحية سنة واحدة</string>
+    <string name="pay_via">ادفع بواسطة</string>
+    <string name="myorders">طلباتي</string>
+    <string name="powered_by_eq_softwares_llc_amp_global_connenction_llc"><![CDATA[Powered by EQ SOFTWARES LLC & GLOBAL CONNENCTION LLC]]></string>
+    <string name="activation_code_copied">تم نسخ كود التفعيل!</string>
+    <string name="share_using">مشاركة باستخدام</string>
+    <string name="order_date">تاريخ الطلب</string>
+    <string name="transaction_id">هوية المعاملة</string>
+    <string name="processing_order_you_will_be_notified_once_the_activation_code_is_available">جاري تنفيذ طلبك. سيتم اشعارك عند توافر كود التفعيل.</string>
+    <string name="one_year_validity_code">تاريخ الصلاحية سنة واحدة</string>
+
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="terms_conditions">بنود &amp; شروط</string>
+    <string name="sure_logout">هل أنت متأكد أنك تريد تسجيل الخروج ؟</string>
+    <string name="english">إنجليزي</string>
+    <string name="arabic">عربي</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="info_theonedeals_com">info@theonedeals.com</string>
+    <string name="agree_error">يرجى الموافقة على الشروط والأحكام</string>
+    <string name="phone_number_not_start_with">يرجى حذف أول 0 من رقم الهاتف</string>
+
+    <string name="agree_text">أوافق على الشروط والأحكام</string>
+    <string name="notification">إخطارات</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="theone_deals">برنامج ذاوان ديلز للخصومات</string>
+    <string name="email_username_mobile">البريد الإلكتروني / اسم المستخدم / الجوال</string>
+    <string name="continuec">أستمرار</string>
+    <string name="facebook">فيس بوك</string>
+    <string name="first_name">الأسم الاول</string>
+    <string name="last_name">الأسم الأخير</string>
+    <string name="remember_me">تذكرنى</string>
+    <string name="repeate_password_error">تكرار كلمة السر خاطئة</string>
+    <string name="repeat_password">تكرار كلمة السر</string>
+    <string name="select_country">أختر بلد</string>
+    <string name="txt_have_account">لدى حساب</string>
+
+</resources>
