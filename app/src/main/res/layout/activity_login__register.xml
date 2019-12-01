@@ -83,6 +83,7 @@ android:background="#F0EFF1">
         android:orientation="vertical"
         >
         <LinearLayout
+
             android:visibility="gone"
 
             android:id="@+id/linear_login"
@@ -123,7 +124,7 @@ android:background="#F0EFF1">
                     android:layout_marginTop="30dp">
                     <EditText
 
-                        android:textSize="12sp"
+                        android:textSize="14sp"
                         android:id="@+id/input_email"
                         android:layout_width="match_parent"
                         android:layout_height="50dp"
@@ -141,7 +142,8 @@ android:background="#F0EFF1">
                     android:layout_marginTop="10dp"
                     android:orientation="horizontal">
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
+
 
                         android:id="@+id/input_password"
                         android:layout_width="match_parent"
@@ -188,7 +190,8 @@ android:background="#F0EFF1">
 
 
                 <TextView
-                    android:textSize="12sp"
+                    android:textSize="14sp"
+
 
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -282,6 +285,7 @@ android:background="#F0EFF1">
                 />
 
             <LinearLayout
+
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
@@ -300,7 +304,7 @@ android:background="#F0EFF1">
                     android:layout_marginTop="30dp"
                     android:weightSum="2.2">
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
                         android:id="@+id/input_first_user_name"
                         android:layout_width="0dp"
                         android:layout_weight="1"
@@ -312,7 +316,7 @@ android:background="#F0EFF1">
                         android:backgroundTint="@color/txt_color"
                         android:hint="@string/first_name" />
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
 
                         android:id="@+id/input_last_user_name"
                         android:layout_width="0dp"
@@ -336,7 +340,7 @@ android:background="#F0EFF1">
                     android:layout_marginTop="10dp"
                     android:orientation="horizontal">
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
 
                         android:id="@+id/input_email_signup"
                         android:layout_width="match_parent"
@@ -366,7 +370,7 @@ android:background="#F0EFF1">
                         android:layout_weight="15"
                         android:layout_height="wrap_content">
                         <TextView
-                            android:textSize="12sp"
+                            android:textSize="14sp"
                             android:text="Phone"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"/>
@@ -451,7 +455,7 @@ android:background="#F0EFF1">
                                 android:layout_width="wrap_content"
                                 android:layout_height="40dp"
                                 android:text="Country"
-                                android:textSize="12sp"
+                                android:textSize="14sp"
                                 android:textStyle="bold"
                                 android:background="#00000000"
                                 android:textColor="@color/txt_color"
@@ -489,7 +493,7 @@ android:background="#F0EFF1">
                                 android:layout_width="wrap_content"
                                 android:layout_height="40dp"
                                 android:text="City"
-                                android:textSize="12sp"
+                                android:textSize="14sp"
 
                                 android:textStyle="bold"
                                 android:background="#00000000"
@@ -518,7 +522,7 @@ android:background="#F0EFF1">
                     android:layout_marginTop="10dp"
                     android:orientation="horizontal">
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
 
                         android:id="@+id/input_password_for_sigup"
                         android:layout_width="match_parent"
@@ -539,7 +543,7 @@ android:background="#F0EFF1">
                     android:layout_marginTop="10dp"
                     android:orientation="horizontal">
                     <EditText
-                        android:textSize="12sp"
+                        android:textSize="14sp"
 
                         android:id="@+id/input_repeat_password_for_sigup"
                         android:layout_width="match_parent"
@@ -555,7 +559,7 @@ android:background="#F0EFF1">
                 </LinearLayout>
 
                 <CheckBox
-                    android:textSize="12sp"
+                    android:textSize="14sp"
 
                     android:id="@+id/terms_condition"
                     android:layout_width="wrap_content"
