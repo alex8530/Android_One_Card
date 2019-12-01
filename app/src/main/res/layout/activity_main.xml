@@ -34,6 +34,7 @@
                         android:layout_alignParentTop="true"
                         android:background="@drawable/notification_toolbar"
                         android:id="@+id/toolbar"
+                        android:elevation="5dp"
                         android:layout_width="match_parent"
                         android:layout_height="160dp"
                         android:layout_marginBottom="-40dp">
@@ -79,6 +80,11 @@
                             <LinearLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="wrap_content">
+                                <include layout="@layout/home_item"/>
+                                <include layout="@layout/home_item"/>
+                                <include layout="@layout/home_item"/>
+
+                                <include layout="@layout/home_item"/>
                                 <include layout="@layout/home_item"/>
                                 <include layout="@layout/home_item"/>
 

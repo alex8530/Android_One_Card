@@ -84,8 +84,8 @@ android:background="#F0EFF1">
         >
         <LinearLayout
 
-            android:visibility="gone"
 
+            android:visibility="gone"
             android:id="@+id/linear_login"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -164,7 +164,7 @@ android:background="#F0EFF1">
                     >
 
                     <CheckBox
-                        android:textSize="12sp"
+                        android:textSize="14sp"
 
                         android:fontFamily="@font/cairo_regular"
                         android:layout_width="wrap_content"
@@ -179,7 +179,7 @@ android:background="#F0EFF1">
                         android:layout_marginTop="5dp"
                         android:layout_gravity="end"
                         android:textColor="@color/txt_color"
-                        android:textSize="12sp"
+                        android:textSize="14sp"
                         android:text="@string/forgot_password"
                         android:layout_alignParentEnd="true"
                         />
@@ -370,7 +370,7 @@ android:background="#F0EFF1">
                         android:layout_weight="15"
                         android:layout_height="wrap_content">
                         <TextView
-                            android:textSize="14sp"
+                            android:textSize="12sp"
                             android:text="Phone"
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"/>
@@ -437,9 +437,11 @@ android:background="#F0EFF1">
                     android:gravity="center_horizontal">
 
                     <LinearLayout
+                        android:layout_marginStart="-20dp"
                         android:layout_marginEnd="50dp"
-                        android:gravity="center_vertical|start"
                         android:layout_width="0dp"
+                        android:gravity="center_vertical|start"
+
                         android:layout_weight="1"
                         android:orientation="vertical"
                         android:layout_height="wrap_content">
@@ -455,9 +457,8 @@ android:background="#F0EFF1">
                                 android:layout_width="wrap_content"
                                 android:layout_height="40dp"
                                 android:text="Country"
-                                android:textSize="14sp"
-                                android:textStyle="bold"
-                                android:background="#00000000"
+                                android:textSize="12sp"
+                                 android:background="#00000000"
                                 android:textColor="@color/txt_color"
                                 />
                             <ImageView
@@ -493,9 +494,8 @@ android:background="#F0EFF1">
                                 android:layout_width="wrap_content"
                                 android:layout_height="40dp"
                                 android:text="City"
-                                android:textSize="14sp"
+                                android:textSize="12sp"
 
-                                android:textStyle="bold"
                                 android:background="#00000000"
                                 android:textColor="@color/txt_color"
                                 />
@@ -570,7 +570,8 @@ android:background="#F0EFF1">
                     android:layout_marginTop="25dp"/>
 
                 <TextView
-                    android:textSize="12sp"
+                    android:textSize="14sp"
+
 
                     android:id="@+id/txt_have_account"
                     android:layout_width="wrap_content"

@@ -110,6 +110,20 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+      final TextView tv_category =  findViewById(R.id.tv_category);
+
+
+        tv_category.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent i = new Intent(MainActivity.this,CategoryActivity.class);
+                startActivity(i);
+
+            }
+        });
+
+
+
 
 
 
